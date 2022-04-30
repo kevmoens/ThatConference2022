@@ -1,34 +1,33 @@
-#Resource List
-Hour Of Code - December
-Scratch
-FreeCodeCamp
-Flexbox Froggy
-Grid Garden
-Edabit
-Hack4Kids - Milwaukee - Chicago
-Tim Corey - C# Challenge
-Brackeys - Unity 
-
-
-#Projects
-MadLibs
-Hi Ho Cherry-O
-Jacks are Junk
-360 Photobooth
-Ella School
-Rock Paper Scissors
-Tic Tac Toe
-Binary Puzzle Solver
-Hangman
-Jacks Are Junk
-Cosmic Battle - Unity
-Raspberry Pi C# UWP Balloon car popping
-MakerBlock NextMaker Kits
-KiwiCo - Tinker Crate
-
-#Fun
-itch.io 
-
-#Future
-Hackathon
-AWS Summit
+#Resource List</br>
+Hour Of Code - December</br>
+Scratch</br>
+FreeCodeCamp</br>
+Flexbox Froggy</br>
+Grid Garden</br>
+Edabit</br>
+Hack4Kids - Milwaukee - Chicago</br>
+Tim Corey - C# Challenge</br>
+Brackeys - Unity s</br>
+</br>
+</br>
+#Projects</br>
+MadLibs</br>
+Jacks are Junk</br>
+360 Photobooth</br>
+Ella School</br>
+Rock Paper Scissors</br>
+Tic Tac Toe</br>
+Binary Puzzle Solver</br>
+Hangman</br>
+Jacks Are Junk</br>
+Cosmic Battle - Unity</br>
+Raspberry Pi C# UWP Balloon car popping</br>
+MakerBlock NextMaker Kits</br>
+KiwiCo - Tinker Crate</br>
+</br>
+#Fun</br>
+itch.io </br>
+</br>
+#Future</br>
+Hackathon</br>
+AWS Summit</br>
