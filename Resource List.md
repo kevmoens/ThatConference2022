@@ -12,7 +12,7 @@ Brackeys - Unity s</br>
 </br>
 #Projects</br>
 MadLibs</br>
-Jacks are Junk</br>
+Guess A Number</br>
 360 Photobooth</br>
 Ella School</br>
 Rock Paper Scissors</br>
