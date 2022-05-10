@@ -5,9 +5,8 @@ FreeCodeCamp</br>
 Flexbox Froggy</br>
 Grid Garden</br>
 Edabit</br>
-Hack4Kids - Milwaukee - Chicago</br>
 Tim Corey - C# Challenge</br>
-Brackeys - Unity s</br>
+Brackeys - Unity</br>
 </br>
 </br>
 #Projects</br>
@@ -26,8 +25,15 @@ MakerBlock NextMaker Kits</br>
 KiwiCo - Tinker Crate</br>
 Choose Your own adventure story</br>
 </br>
+</br>
+#Events</br>
+Hack4Kids - Milwaukee - Chicago</br>
+That Conference</br>
+</br>
+</br>
 #Fun</br>
-itch.io </br>
+itch.io</br>
+</br>
 </br>
 #Future</br>
 Hackathon</br>
