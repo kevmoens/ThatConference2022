@@ -7,6 +7,7 @@ Grid Garden</br>
 Edabit</br>
 Tim Corey - C# Challenge</br>
 Brackeys - Unity</br>
+Minecraft - Education Edition</br>
 </br>
 </br>
 #Projects</br>
@@ -28,7 +29,8 @@ Choose Your own adventure story</br>
 </br>
 #Events</br>
 Hack4Kids - Milwaukee - Chicago</br>
-That Conference</br>
+Hour of Code - December</br>
+That Conference - Summer</br>
 </br>
 </br>
 #Fun</br>
@@ -38,3 +40,10 @@ itch.io</br>
 #Future</br>
 Hackathon</br>
 AWS Summit</br>
+</br>
+</br>
+#Goals of Coding</br>
+1. Have Fun</br>
+2. Growth Mindset</br>
+3. Spend time together</br> 
+4. Increase Creativity</br>
