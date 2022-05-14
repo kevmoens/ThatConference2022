@@ -47,3 +47,7 @@ AWS Summit</br>
 2. Growth Mindset</br>
 3. Spend time together</br> 
 4. Increase Creativity</br>
+5. Persistence / Perseverance / resilience</br>
+6. communication skills</br>
+7. Problem solving / logic skills</br>
+8. Learning to learn</br>
