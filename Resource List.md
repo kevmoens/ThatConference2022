@@ -20,7 +20,8 @@ Tic Tac Toe</br>
 Binary Puzzle Solver</br>
 Hangman</br>
 Jacks Are Junk</br>
-Cosmic Battle - Unity</br>
+<a href="https://kevmoens.s3.amazonaws.com/CosmicBattle/index.html">Cosmic Battle - Unity</a></br>
+<a href="https://kevmoens.s3.amazonaws.com/LegoSampleGame/index.html">Lego Game - Unity</a>
 Raspberry Pi C# UWP Balloon car popping</br>
 MakerBlock NextMaker Kits</br>
 KiwiCo - Tinker Crate</br>
@@ -35,6 +36,7 @@ That Conference - Summer</br>
 </br>
 #Fun</br>
 itch.io</br>
+Modify Site using Developer Tools</br>
 </br>
 </br>
 #Future</br>
