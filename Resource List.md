@@ -1,4 +1,4 @@
-##Resource List</br>
+# Resource List</br>
 Hour Of Code - December</br>
 Scratch</br>
 FreeCodeCamp</br>
@@ -10,7 +10,7 @@ Brackeys - Unity</br>
 Minecraft - Education Edition</br>
 </br>
 </br>
-##Projects</br>
+# Projects</br>
 MadLibs</br>
 Guess A Number</br>
 360 Photobooth</br>
@@ -28,23 +28,23 @@ KiwiCo - Tinker Crate</br>
 Choose Your own adventure story</br>
 </br>
 </br>
-##Events</br>
+# Events</br>
 Hack4Kids - Milwaukee - Chicago</br>
 Hour of Code - December</br>
 That Conference - Summer</br>
 </br>
 </br>
-##Fun</br>
+# Fun</br>
 itch.io</br>
 Modify Site using Developer Tools</br>
 </br>
 </br>
-##Future</br>
+# Future</br>
 Hackathon</br>
 AWS Summit</br>
 </br>
 </br>
-##Goals of Coding</br>
+# Goals of Coding</br>
 1. Have Fun</br>
 2. Spend time together</br> 
 3. Growth Mindset</br>
