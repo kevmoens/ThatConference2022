@@ -5,6 +5,7 @@ FreeCodeCamp</br>
 Flexbox Froggy</br>
 Grid Garden</br>
 Edabit</br>
+Hacker Rank</br>
 Tim Corey - C# Challenge</br>
 Brackeys - Unity</br>
 Minecraft - Education Edition</br>
@@ -53,3 +54,20 @@ AWS Summit</br>
 6. Increase Creativity</br>
 7. Problem solving / logic skills</br>
 8. communication skills</br>
+</br>
+</br>
+# Research Learning Options</br>
+Code Karts</br>
+Think & Learn Code a Pillar</br>
+Kidlo Coding</br>
+RoboZZle</br>
+Tynker</br>
+Goldie Blox</br>
+Hopscotch</br>
+Swift Playgrounds</br>
+Code.Org</br>
+Code Combat</br>
+Blockly Games</br>
+Code Wars</br>
+Code Chef</br>
+Leet Code</br>
