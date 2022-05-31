@@ -4,7 +4,8 @@ Scratch</br>
 FreeCodeCamp</br>
 Flexbox Froggy</br>
 Grid Garden</br>
-Edabit</br>
+Edabit (Subscription)</br>
+Microsoft MakeCode</br>
 Hacker Rank</br>
 Tim Corey - C# Challenge</br>
 Brackeys - Unity</br>
