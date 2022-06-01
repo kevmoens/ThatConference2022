@@ -1,7 +1,7 @@
 # <center>Basic lines of code (c#)</center>
 ### Text appear on screen
-
 	Console.WriteLine(“TEXT”);
+	
 ### User type text on screen
 	Console.ReadLine();
 
