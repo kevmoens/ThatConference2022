@@ -1,10 +1,11 @@
 # Resource List</br>
-Hour Of Code - December</br>
+Hour Of Code</br>
 Scratch</br>
 FreeCodeCamp</br>
 Flexbox Froggy</br>
 Grid Garden</br>
-Edabit</br>
+Edabit (Subscription)</br>
+Microsoft MakeCode</br>
 Hacker Rank</br>
 Tim Corey - C# Challenge</br>
 Brackeys - Unity</br>
@@ -16,9 +17,11 @@ MadLibs</br>
 Guess A Number</br>
 360 Photobooth</br>
 Ella School</br>
+Math Bingo</br>
 Rock Paper Scissors</br>
 Tic Tac Toe</br>
 Binary Puzzle Solver</br>
+FriendTube</br>
 Hangman</br>
 Jacks Are Junk</br>
 <a href="https://kevmoens.s3.amazonaws.com/CosmicBattle/index.html">Cosmic Battle - Unity</a></br>
